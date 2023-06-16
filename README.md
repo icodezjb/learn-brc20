@@ -17,7 +17,8 @@
 12. [Ordinals Inscription铸造过程解析](https://learnblockchain.cn/article/5782)
 13. [逐个字节分析Ordinal的铸造交易](https://learnblockchain.cn/article/5822)
 14. [如何估算Ordinals铸造费用](https://buidler.space/Ordinals-0a26ef31ca8a42e8b0df419f15d44327)
-15. 
+15. [比特币钱包地址可以包含 34 到 62 个字母数字字符](https://www.doubloin.com/learn/how-long-are-bitcoin-addresses)
+
 16. 本地搭建 ordinals inscriptions测试环境
 
     ```bash
